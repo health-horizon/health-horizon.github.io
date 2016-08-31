@@ -44,3 +44,8 @@ p {
   text-align: center;
   margin: 1rem 0 0 0;
 }
+
+span {
+  cursor: default;
+  color: #3884C5;
+}
