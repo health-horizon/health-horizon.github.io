@@ -57,6 +57,7 @@ body {
   margin: 1rem 0 0 0;
   z-index: 10;
   text-decoration: none;
+  color: white;
 }
 
 .cf-error-details {
