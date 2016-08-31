@@ -49,7 +49,8 @@ body {
 }
 
 .hh-blog {
-  color: #efefef;
+  color: white;
+  opacity: 0.5;
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   font-size: 1.6rem;
