@@ -69,18 +69,6 @@ body {
   color: #3884C5;
 }
 
-.cf-error-details {
-  z-index: -1;
-  position: absolute;
-  bottom: 0;
-  cursor: default;
-  color: #3884C5;
-}
-
-.cf-error-522 {
-  z-index: -1;
-  position: absolute;
-  bottom: 0;
-  cursor: default;
-  color: #3884C5;
+.cf-token * {
+  display: none;
 }
